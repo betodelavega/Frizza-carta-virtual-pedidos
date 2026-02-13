@@ -13,6 +13,8 @@ import {
   writeMenuItems,
 } from './lib/menuData';
 
+console.log("");
+
 type OrderForm = {
   flavorId: string;
   name: string;
